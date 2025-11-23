@@ -1,5 +1,49 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Reaper Studio" commit="e77024c3b40ac605dd67a622b3f33e7b69c94a6d">
+<index version="1" name="Reaper Studio" commit="06da7d0cb73247831c5f7520d7a70ab21a8f39ed">
+  <category name="Dynamic Mousewheels">
+    <reapack name="Reaper Studio - Dynamic Mousewheel - Default.lua" type="script" desc="Zoom vertically if ruler is at mouse (otherwise scroll horizontally/adjust item's/active take gains)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Dynamically triggers actions depending on the mouse context and current selection states for items in arrange view.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="BIXI DOX" time="2025-11-23T12:38:40Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/BIXI4DOX/Reaper_Studio/raw/06da7d0cb73247831c5f7520d7a70ab21a8f39ed/Dynamic%20Mousewheels/Reaper%20Studio%20-%20Dynamic%20Mousewheel%20-%20Default.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Reaper Studio - Dynamic Mousewheel - First Modifier.lua" type="script" desc="Scroll horizontally in arrange view or Move selected tracks up or down in track control panel, (otherwise, if items are selected, Adjust pitch by semitone with mousewheel)">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Dynamically triggers actions depending on the mouse context and current selection states for items in arrange view.\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="BIXI DOX" time="2025-11-23T12:38:40Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/BIXI4DOX/Reaper_Studio/raw/06da7d0cb73247831c5f7520d7a70ab21a8f39ed/Dynamic%20Mousewheels/Reaper%20Studio%20-%20Dynamic%20Mousewheel%20-%20First%20Modifier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Reaper Studio - Dynamic Mousewheel - Second Modifier.lua" type="script" desc="Zoom vertically if ruler is at mouse (otherwise scroll horizontally/adjust item's/active take gains)">
+      <version name="1.0" author="me2beats" time="2025-11-23T12:38:40Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/BIXI4DOX/Reaper_Studio/raw/06da7d0cb73247831c5f7520d7a70ab21a8f39ed/Dynamic%20Mousewheels/Reaper%20Studio%20-%20Dynamic%20Mousewheel%20-%20Second%20Modifier.lua</source>
+      </version>
+    </reapack>
+    <reapack name="Reaper Studio - Undo or Redo with mousewheel.lua" type="script" desc="Undo or Redo (mousewheeel)">
+      <version name="1.0" author="me2beats" time="2025-11-23T12:38:40Z">
+        <changelog><![CDATA[+ init]]></changelog>
+        <source main="main">https://github.com/BIXI4DOX/Reaper_Studio/raw/06da7d0cb73247831c5f7520d7a70ab21a8f39ed/Dynamic%20Mousewheels/Reaper%20Studio%20-%20Undo%20or%20Redo%20with%20mousewheel.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
