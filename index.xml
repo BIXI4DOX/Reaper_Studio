@@ -1,22 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Reaper Studio" commit="6a609ebf51b262af90b99e4060970f8954c82e84">
-  <category name="Adjustment">
-    <reapack name="Reaper Studio - Automation Items - Adjustment - Position - Right - Grid.lua" type="script" desc="Move selected automation items by grid">
-      <metadata>
-        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
-{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
-\widowctrl\hyphauto
-
-{\pard \ql \f0 \sa180 \li0 \fi0 Moves selected automation items left or right by one grid division. Adjust {\f1 direction} to +1 or -1, or wrap this in custom actions for both.\par}
-}
-]]></description>
-      </metadata>
-      <version name="1.0" author="BIXI DOX &amp; ChatGPT" time="2025-11-29T14:53:27Z">
-        <changelog><![CDATA[: Initial release]]></changelog>
-        <source main="main">https://github.com/BIXI4DOX/Reaper_Studio/raw/6a609ebf51b262af90b99e4060970f8954c82e84/Adjustment/Reaper%20Studio%20-%20Automation%20Items%20-%20Adjustment%20-%20Position%20-%20Right%20-%20Grid.lua</source>
-      </version>
-    </reapack>
-  </category>
+<index version="1" name="Reaper Studio" commit="201d1b3bd832b084d9773817577fca5067c67d98">
   <category name="Dynamic Mousewheels">
     <reapack name="Reaper Studio - Dynamic Mousewheel - Default.lua" type="script" desc="Zoom vertically if ruler is at mouse (otherwise scroll horizontally/adjust item's/active take gains)">
       <metadata>
