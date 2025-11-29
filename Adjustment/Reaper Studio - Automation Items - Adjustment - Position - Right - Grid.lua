@@ -1,8 +1,8 @@
--- @description: Move selected automation items by grid
--- @version: 1.0
--- @author: BIXI DOX & ChatGPT
+-- @description Move selected automation items by grid
+-- @version 1.0
+-- @author BIXI DOX & ChatGPT
 -- @changelog: Initial release
--- @about:
+-- @about
 --   Moves selected automation items left or right by one grid division.
 --   Adjust `direction` to +1 or -1, or wrap this in custom actions for both.
 
