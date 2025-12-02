@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="Reaper Studio" commit="201d1b3bd832b084d9773817577fca5067c67d98">
+<index version="1" name="Reaper Studio" commit="263a13e0090a0fe9bdad9f5f32378a8843157aca">
+  <category name="Adjustment">
+    <reapack name="Reaper Studio - Automation Items Bundle.lua" type="script" desc="Reaper Studio - Automation Items Bundle">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 \fmodern Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa0 \li360 \fi-360 \bullet \tx360\tab Testing, I did that.\sa180\par}
+}
+]]></description>
+        <link rel="website">https://github.com/BIXI4DOX/Reaper_Studio</link>
+      </metadata>
+      <version name="1.0" author="BIXIDOX" time="2025-12-02T06:23:57Z">
+        <changelog><![CDATA[+ Yeah, I did that.]]></changelog>
+        <source>https://github.com/BIXI4DOX/Reaper_Studio/raw/263a13e0090a0fe9bdad9f5f32378a8843157aca/Adjustment/Reaper%20Studio%20-%20Automation%20Items%20Bundle.lua</source>
+      </version>
+    </reapack>
+  </category>
   <category name="Dynamic Mousewheels">
     <reapack name="Reaper Studio - Dynamic Mousewheel - Default.lua" type="script" desc="Zoom vertically if ruler is at mouse (otherwise scroll horizontally/adjust item's/active take gains)">
       <metadata>
