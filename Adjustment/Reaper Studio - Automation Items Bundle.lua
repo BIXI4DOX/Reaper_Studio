@@ -7,6 +7,7 @@
 -- @about
 --  * Testing, I did that.
 -- @provides
+-- 	[nomain] Reaper Studio - Automation Items Bundle.lua
 --	[main] Reaper Studio - Automation Items - Adjustment - Length - End - Extend - Grid.lua
 --	[main] Reaper Studio - Automation Items - Adjustment - Length - End - Shorten - Grid.lua
 --	[main] Reaper Studio - Automation Items - Adjustment - Length - Start - Extend - Grid.lua
